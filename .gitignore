@@ -1,2 +1,4 @@
 cyberpunk_2077_filtered.csv
 cyberpunk2077_all_reviews.csv
+320_final_model/model.safetensors
+320_final_model/config.json
